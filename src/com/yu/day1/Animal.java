@@ -3,8 +3,8 @@ package com.yu.day1;
 public abstract class Animal {
     String specie;
     int high;
-
     public Animal() {
+
     }
 
     public Animal(String specie, int high) {
