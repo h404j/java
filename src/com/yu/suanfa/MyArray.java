@@ -27,11 +27,12 @@ public class MyArray {
     public static void main(String[] args) throws Exception {
         MyArray myArray=new MyArray(10);
         myArray.insert(0,3);
-        myArray.output();
+
        myArray.insert(1,7);
        myArray.insert(2,9);
        myArray.insert(3,5);
        myArray.insert(1,6);
        myArray.output();
+
     }
 }
