@@ -33,7 +33,7 @@ public class MyArray {
        myArray.insert(3,5);
        myArray.insert(1,6);
       
-       myArray.output();
+ 
 
     }
 }
